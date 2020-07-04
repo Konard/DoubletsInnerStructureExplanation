@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoubletsInnerStructureExplanation", "DoubletsInnerStructureExplanation.csproj", "{A03E9F27-43F1-46ED-BE73-91328B740903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A03E9F27-43F1-46ED-BE73-91328B740903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03E9F27-43F1-46ED-BE73-91328B740903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03E9F27-43F1-46ED-BE73-91328B740903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03E9F27-43F1-46ED-BE73-91328B740903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C54017E-9DD9-4FE4-8CE5-9BDB1EA99B36}
+	EndGlobalSection
+EndGlobal
